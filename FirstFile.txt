@@ -1,3 +1,4 @@
 Hello! 
 This is the first file of this repository.
 :rocket:
+In this bootcamp we'll learn from scratch evething we'll need to became:
